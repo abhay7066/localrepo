@@ -1,9 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-ba5ea3915029e3dc861bda6a98b60b5d60fa654e refs/heads/abhay
-e320752f52ef2a535908c245a9614a9e47e001b9 refs/heads/abhay1
-b3375ea22cba298ab40b57ddd67c27bf7d93704c refs/heads/abhayfinal
-34ede53d10f0df9aafadcfbc83d3ea8eb4b27d38 refs/heads/abhayfinal2
-b77905d0b3269ea729e9526b5084e42da3d227fd refs/heads/abhayfinal3
-27b6177c98f8b3f16a8e9f19b7d36224c473b39a refs/heads/main
-cb8a70363abe977574c156e11ee20c042289b701 refs/heads/master
-34e212035600604267382bff506d272bad718f18 refs/pull/1/head
